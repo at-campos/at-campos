@@ -14,8 +14,8 @@ NIN fan, Cachy user, 3D printer owner
   
   ### HTML // CSS w/SASS // JavaScript // Java
 
-  **Studying: React!**  
-  Working on: Basic React SPA
+  **Studying: Java Backend!**  
+  Working on: Basic CRUD usage in Java
 
 </div>
 
